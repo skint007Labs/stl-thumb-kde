@@ -2,7 +2,10 @@
   "CacheThumbnail": true,
   "KPlugin": {
       "MimeTypes": [
-          "model/stl"
+          "model/stl",
+          "application/sla",
+          "model/x.stl-ascii",
+          "model/x.stl-binary"
       ],
       "Name": "STL documents"
   }
